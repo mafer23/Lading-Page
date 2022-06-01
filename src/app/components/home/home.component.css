@@ -1,0 +1,27 @@
+.buenas {
+    width: 1500px;
+    height: 700px;
+    background-color: #E4E6F5;
+}
+
+.contenedor {
+    display: grid;
+    grid-template-columns: 23.3% 23.3% 23.3%;
+    justify-content: center;
+    height: 650px;
+    grid-gap: 20px;
+    row-gap: 40px;
+    padding: 30px;
+    background-color: #E4E6F5;
+}
+
+.item {
+    padding: 30px;
+    background-color: white;
+    box-shadow: 8px 8px 10px 1px #B1B2B6;
+    border-radius: 10px;
+}
+
+.item.l {
+    background-image: linear-gradient(to top, #fe5196 0%, #f77062 100%);
+}

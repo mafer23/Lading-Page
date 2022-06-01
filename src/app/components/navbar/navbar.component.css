@@ -1,0 +1,21 @@
+.buenas {
+    width: 1500px;
+    height: 80px;
+    display: flex;
+}
+
+.divs {
+    width: 700px;
+    height: 45px;
+    margin: 20px;
+}
+
+.letra {
+    color: #080F65;
+}
+
+.boton {
+    width: 120px;
+    height: 40px;
+    background-color: #080F65;
+}

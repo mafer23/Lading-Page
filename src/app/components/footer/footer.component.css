@@ -1,0 +1,22 @@
+.buenas {
+    width: 1500px;
+    height: 80px;
+    display: flex;
+    background-color: #080F65;
+}
+
+.divs {
+    width: 700px;
+    height: 45px;
+    margin: 20px;
+}
+
+.letra {
+    color: white;
+}
+
+.boton {
+    width: 120px;
+    height: 40px;
+    background-image: linear-gradient(to top, #fe5196 0%, blueviolet 100%);
+}
